@@ -3,15 +3,15 @@ Repositório para a aplicação Cadastro de Estudantes. Esse projeto é uma simp
 
 Projeto Prático: Cadastro inicial de estudantes.
 
-Curso de Sistemas Para Internet 
-Cadeira: Tópicos Especiais em Sistemas Para Internet
-Professor: Jeofton Costa Melo.
+Curso de Sistemas Para Internet<br/> 
+Cadeira: Tópicos Especiais em Sistemas Para Internet<br/> 
+Professor: Jeofton Costa Melo.<br/> 
 
-Projeto Prático: BANCO SPI
+Projeto Prático: BANCO SPI<br/> 
 
-Criadores do projeto:
+Criadores do projeto:<br/> 
 
-João Cirino Nunes Neto,
-Marcelo Pereira da Silva, 
-Murilo Moreira Morais e 
-Thiago de Lyra Borges.
+João Cirino Nunes Neto,<br/> 
+Marcelo Pereira da Silva, <br/> 
+Murilo Moreira Morais e <br/> 
+Thiago de Lyra Borges.<br/> 
