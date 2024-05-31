@@ -15,6 +15,6 @@ Marcelo Pereira da Silva, <br/>
 Murilo Moreira Morais e <br/> 
 Thiago de Lyra Borges.<br/> 
 
-Link para o vídeo de apresentação do projeto (11 minutos):
+Link para o vídeo de apresentação do projeto:
 
-[https://www.youtube.com/watch?v=uEoiy5QPCMc](https://www.youtube.com/watch?v=tZ_n-p5weAw)
+https://www.youtube.com/watch?v=tZ_n-p5weAw
