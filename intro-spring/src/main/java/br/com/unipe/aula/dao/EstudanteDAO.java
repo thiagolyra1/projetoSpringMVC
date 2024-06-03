@@ -44,5 +44,4 @@ public class EstudanteDAO {
 	public void editar(Estudante estudante) {
 		entityManager.merge(estudante);
 	}
-
 }
